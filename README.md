@@ -1,5 +1,5 @@
-## Skincare Recommendations Analysis
-As a dedicated skincare enthusiast, I created the Skincare Recommendations Analysis project to provide data-driven insights and product recommendations in the skincare industry.
+## Skincare Recommendation Analysis
+As a dedicated skincare enthusiast, I created the Skincare Recommendation Analysis project to provide data-driven insights and product recommendations in the skincare industry.
 The project integrates data from five distinct datasets and utilizes Python for data cleaning and preprocessing to ensure high-quality data. It leverages SQL customized queries to extract insights across various cases, such as:
 - Top 10 products by category based on the loves-to-ratings ratio
 - Top 10 budget-friendly selections per category
