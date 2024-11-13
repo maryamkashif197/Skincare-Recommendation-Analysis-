@@ -28,7 +28,7 @@ To bring insight to life, I executed the SQL queries in Power BI, transforming t
 ## Conclusion
 This project not only informs users but also bridges my passion for skincare with my technical skills in data analysis and visualization, enhancing my existing skills and adding Power BI as a new skill I learned independently for data visualization and dashboard creation.
 
-[Datasets: ](https://www.kaggle.com/datasets/thedevastator/skincare-products-that-perform-the-best-at-sepho)
+Datasets: https://www.kaggle.com/datasets/thedevastator/skincare-products-that-perform-the-best-at-sepho
 
 ![Screenshot](page1_dashboard.png)
 ![Screenshot](page2_dashboard.png)
