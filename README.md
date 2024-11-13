@@ -7,8 +7,7 @@ Python: Data cleaning and preprocessing
 SQL: Customized queries for insights extraction
 Power BI: Data visualization and interactive dashboards
 
-## Implementation
-## Data Sources
+# Implementation:
 The project integrates five distinct datasets into a single CSV file called product_df. These datasets include information such as brand, product name, category, review score, price, number of reviews, number of loves, and size. The datasets were merged to provide a comprehensive analysis of skincare products. They were also preprocessed to ensure consistency and handle missing or redundant data using Python.
 
 ## Data Cleaning & Preprocessing
