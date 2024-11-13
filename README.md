@@ -7,16 +7,14 @@ Python: Data cleaning and preprocessing
 SQL: Customized queries for insights extraction
 Power BI: Data visualization and interactive dashboards
 
-# Implementation:
+## Implementation
 The project integrates five distinct datasets into a single CSV file called product_df. These datasets include information such as brand, product name, category, review score, price, number of reviews, number of loves, and size. The datasets were merged to provide a comprehensive analysis of skincare products. They were also preprocessed to ensure consistency and handle missing or redundant data using Python.
 
-## Data Cleaning & Preprocessing
 The following steps were taken to clean and preprocess the data:
 Removed duplicates  
 Handled missing values
 Standardized the formatting of values
 
-## SQL Queries
 Custom SQL queries were written to extract various insights from the data for various cases. Some key queries include:
 
 - Top 10 products by category based on the loves-to-ratings ratio
@@ -24,9 +22,7 @@ Custom SQL queries were written to extract various insights from the data for va
 - Top 5 rated products per category
 - Top 5 loved products per category
 - Top 5 ranked brands, and more
-
-## Data Visualization
-### Power BI Visuals
+- 
 To bring insight to life, I executed the SQL queries in Power BI, transforming the data into interactive visualizations. These visuals provide an evidence based perspective on the skincare sector, guiding users toward top products tailored to specific criteria, budget-friendly options, popular brands, and other essential metrics.
 
 ## Conclusion
