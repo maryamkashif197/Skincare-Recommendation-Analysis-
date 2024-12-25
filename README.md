@@ -22,7 +22,7 @@ Custom SQL queries were written to extract various insights from the data for va
 - Top 5 rated products per category
 - Top 5 loved products per category
 - Top 5 ranked brands, and more
-- 
+  
 To bring insight to life, I executed the SQL queries in Power BI, transforming the data into interactive visualizations. These visuals provide an evidence based perspective on the skincare sector, guiding users toward top products tailored to specific criteria, budget-friendly options, popular brands, and other essential metrics.
 
 ## Conclusion
